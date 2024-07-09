@@ -1,1 +1,1 @@
-fichero2
+primera linea fichero2
