@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 Primera linea fichero1
-=======
-Primera linea fichero1
-Segunda linea fichero1
-hola
->>>>>>> 4545e0a (hola)
